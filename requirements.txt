@@ -8,3 +8,7 @@ seaborn
 plotly
 mlflow
 statsmodels
+keras
+tensorflow
+Flask 
+joblib
